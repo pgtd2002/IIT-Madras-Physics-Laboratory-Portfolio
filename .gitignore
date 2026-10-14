@@ -1,0 +1,8 @@
+
+# IDE configuration
+.idea/
+*.iml
+
+# macOS metadata
+.DS_Store
+._*
